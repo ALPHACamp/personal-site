@@ -53,6 +53,10 @@ img {
   position: relative;
 }
 
+section {
+  padding: 100px 0;
+}
+
 /*====================== 02. Header ======================*/
 header {
   position: fixed;
@@ -134,10 +138,6 @@ header {
 
 /*====================== 04. About Me ======================*/
 
-.about_me {
-  padding: 100px 0;
-}
-
 h2 {
   margin-bottom: 75px;
   text-align: center;
@@ -206,7 +206,6 @@ h2 {
 /*====================== 05. What I Offer ======================*/
 
 .my_service {
-  padding: 100px 0;
   background-color: #f9f9f9;
 }
 
