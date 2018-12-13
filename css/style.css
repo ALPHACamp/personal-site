@@ -93,6 +93,7 @@ header {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   width: 100%;
   height: 100%;
 }
@@ -290,6 +291,7 @@ h3.resume-subtitle {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   position: relative;
   width: 100%;
 }
